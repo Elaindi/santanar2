@@ -10,7 +10,7 @@
 - Especialização Técnica em Radiocomunicação (ETEC)
 - Técnica em Telecomunicação (ETEC)
 
-:video_game: Nada no mundo se compara à persistência, se não for pelo talento é pela persistência Cayde-06.
+:Cada bug é uma chance de aprender algo novo.
 
 :star2: **Jornada de Aprendizado:**
 - Estudando através do site: Curso em Vídeo, com o Professor Guanabara

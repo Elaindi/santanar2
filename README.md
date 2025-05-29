@@ -3,23 +3,19 @@
 
 # Bem-vindos ao meu GitHub! ⭐
 
-## :loop: Olá, eu sou Santana!
-
-🎓 **Formação Superior:**
-- Superior de Tecnologia em análise e desenvolvimento de Sistemas (Unicesumar) - Conclusão em 2026. :+1:
+## :loop: Olá, eu sou Elaine Santana!
 
 🔧 **Formação Técnica:**
 - Técnico em Manutenção e Redes de Computadores (FIEB)
 - Especialização Técnico em Radiocomunicação (ETEC)
 - Técnico em Telecomunicação (ETEC)
-- Técnico em Eletrotécnica (GES)
 
 :video_game: Nada no mundo se compara à persistência, se não for pelo talento é pela persistência Cayde-06.
 
 :star2: **Jornada de Aprendizado:**
 - Estudando através do site: Curso em Vídeo, com o Professor Guanabara
 - Aprimorando habilidades na plataforma Dio.me
-- Focada no desenvolvimento das minhas habilidades como desenvolvedor
+- Focada no desenvolvimento das minhas habilidades como desenvolvedora
 
 
 <h2 align="center">🛠️ Tecnologias em aprendizado:</h2>

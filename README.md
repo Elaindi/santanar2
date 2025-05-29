@@ -6,9 +6,9 @@
 ## :loop: Olá, eu sou Elaine Santana!
 
 🔧 **Formação Técnica:**
-- Técnico em Manutenção e Redes de Computadores (FIEB)
-- Especialização Técnico em Radiocomunicação (ETEC)
-- Técnico em Telecomunicação (ETEC)
+- Técnica em Manutenção e Redes de Computadores (FIEB)
+- Especialização Técnica em Radiocomunicação (ETEC)
+- Técnica em Telecomunicação (ETEC)
 
 :video_game: Nada no mundo se compara à persistência, se não for pelo talento é pela persistência Cayde-06.
 

@@ -10,7 +10,7 @@
 - Especialização Técnica em Radiocomunicação (ETEC)
 - Técnica em Telecomunicação (ETEC)
 
-:Cada bug é uma chance de aprender algo novo.
+Cada bug é uma chance de aprender algo novo.
 
 :star2: **Jornada de Aprendizado:**
 - Estudando através do site: Curso em Vídeo, com o Professor Guanabara
